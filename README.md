@@ -1,5 +1,5 @@
 # xlsxDigest
-Python LIB to digest ServiceAID adhoc report by the date of creation, in order to generate a simple xlsx heat map of incidents
+Python LIB to digest ServiceAID adhoc report by the date of creation, in order to generate a simple hourly/date based xlsx heat map of incidents
 
 It creates a xlsx file listing incidents in a simple table view, using the format of hour of the incident vs date of the incident (as shown in the sample file)
 
