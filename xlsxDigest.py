@@ -54,6 +54,7 @@ class digest:
         initrow = 3
         initcol = 2
         for i in self.hourlist:
+            i = i+":00"
             ws.cell(row=initrow, column=initcol, value=i)
             initrow+= 1
         ## populate the rows of date
