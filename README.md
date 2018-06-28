@@ -20,7 +20,7 @@ file = digest("adhoc_report.xlsx")
 # Populates the DataMap with the content from the file you just initiated
 file.populateData()
 
-# Export the dataMap to a xlsn file (a file with the name of sample.xlsx will be created in the same path of the lib)
+# Export the dataMap to a xlsx file (a file with the name of sample.xlsx will be created in the same path of the lib)
 file.generateReport()
 
-Feel free to contact me in case of any doubts or issues.
+# Feel free to contact me in case of any doubts or issues.
